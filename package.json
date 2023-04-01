@@ -1,0 +1,8 @@
+{
+  "name": "@lucasftz/simplejs",
+  "version": "0.0.0",
+  "description": "SimpleJS is a lightweight and intuitive JavaScript library designed to simplify the process of building dynamic user interfaces.",
+  "main": "src/index.ts",
+  "author": "lucasftz",
+  "license": "MIT"
+}
