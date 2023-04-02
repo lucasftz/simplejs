@@ -1,3 +1,1 @@
-import { createElement } from "./jsx-runtime";
-
-export { createElement };
+export { createElement } from "./jsx-runtime";

@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "strictNullChecks": true,
+    "jsx": "preserve",
+    "jsxImportSource": "./src",
+    "jsxFactory": "createElement",
+  }
+}
